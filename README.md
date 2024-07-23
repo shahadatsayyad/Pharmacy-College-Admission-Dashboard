@@ -1,1 +1,1 @@
-# Pharmacy-College-Admission-Dashboard
+This project is about the current year pharmacy college students admission fee. Project details of which students were admitted by which method. How many marks a student got in CET, in which round he got admission, from which caste he got admission, if he got more than 90 marks what percentage fee reduction, in which form he paid the fee, which region he belongs to. The project shows all the aspects of the campaign that will benefit it.
